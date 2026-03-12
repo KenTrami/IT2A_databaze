@@ -1,2 +1,3 @@
 # IT2A_databaze
-#### ni
+## 12.3.
+#### dnes si nastavíme repozitář
