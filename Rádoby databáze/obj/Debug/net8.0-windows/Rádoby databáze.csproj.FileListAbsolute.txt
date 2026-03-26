@@ -18,3 +18,4 @@ H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\refint\Rádob
 H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.pdb
 H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.genruntimeconfig.cache
 H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\ref\Rádoby databáze.dll
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.sourcelink.json

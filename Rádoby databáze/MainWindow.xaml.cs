@@ -16,15 +16,35 @@ namespace Rádoby_databáze
     /// </summary>
     public partial class MainWindow : Window
     {
+        List Koscticky = new List 
+        {
+            
+        };
         public MainWindow()
         {
             InitializeComponent();
             
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void Pridat_click(object sender, RoutedEventArgs e)
         {
 
         }
+
+        private void Upravit_click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Smazat_click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void SmazatVse_click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
     }
 }
