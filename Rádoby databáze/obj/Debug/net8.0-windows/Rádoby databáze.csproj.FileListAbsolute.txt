@@ -1,0 +1,20 @@
+H:\C#\Rádoby databáze\Rádoby databáze\bin\Debug\net8.0-windows\Rádoby databáze.exe
+H:\C#\Rádoby databáze\Rádoby databáze\bin\Debug\net8.0-windows\Rádoby databáze.deps.json
+H:\C#\Rádoby databáze\Rádoby databáze\bin\Debug\net8.0-windows\Rádoby databáze.runtimeconfig.json
+H:\C#\Rádoby databáze\Rádoby databáze\bin\Debug\net8.0-windows\Rádoby databáze.dll
+H:\C#\Rádoby databáze\Rádoby databáze\bin\Debug\net8.0-windows\Rádoby databáze.pdb
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\App.g.cs
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze_MarkupCompile.cache
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze_MarkupCompile.lref
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\MainWindow.baml
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.g.resources
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.AssemblyInfoInputs.cache
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.AssemblyInfo.cs
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.csproj.CoreCompileInputs.cache
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.dll
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\refint\Rádoby databáze.dll
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.pdb
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\Rádoby databáze.genruntimeconfig.cache
+H:\C#\Rádoby databáze\Rádoby databáze\obj\Debug\net8.0-windows\ref\Rádoby databáze.dll
